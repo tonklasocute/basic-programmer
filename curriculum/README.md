@@ -15,7 +15,7 @@ easiest to hardest. Each chapter is a standalone Markdown file in this folder.
 ## Roadmap
 
 ### Part 1 — Computer Science Fundamentals
-1. [x] [How Computers Work](01-how-computers-work.md) — CPU, RAM, Disk, speed hierarchy
+1. [x] [How Computers Work](01-how-computers-work.md) ([สรุปไทย](01-how-computers-work.th.md)) — CPU, RAM, Disk, speed hierarchy
 2. [ ] Binary, Hexadecimal, Number Systems, ASCII/Unicode
 3. [ ] Memory Model — Stack vs Heap, Process vs Thread
 4. [ ] Compilers, Interpreters, Virtual Machines
