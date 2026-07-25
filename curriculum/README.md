@@ -18,7 +18,7 @@ easiest to hardest. Each chapter is a standalone Markdown file in this folder.
 1. [x] [How Computers Work](01-how-computers-work.md) ([สรุปไทย](01-how-computers-work.th.md)) — CPU, RAM, Disk, speed hierarchy
 2. [x] [Binary, Hexadecimal, Number Systems, ASCII/Unicode](02-number-systems.th.md) (ภาษาไทย)
 3. [x] [Memory Model — Stack vs Heap, Process vs Thread](03-memory-model.th.md) (ภาษาไทย)
-4. [ ] Compilers, Interpreters, Virtual Machines
+4. [x] [Compilers, Interpreters, Virtual Machines](04-compilers-interpreters-vm.th.md) (ภาษาไทย)
 
 ### Part 2 — Programming Fundamentals
 5. [ ] Variables, Data Types, Constants
@@ -108,4 +108,4 @@ easiest to hardest. Each chapter is a standalone Markdown file in this folder.
 59. [ ] CI/CD, Logging, Monitoring
 
 ---
-*Progress: 3 / 59 chapters complete.*
+*Progress: 4 / 59 chapters complete.*
