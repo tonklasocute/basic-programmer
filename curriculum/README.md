@@ -21,7 +21,7 @@ easiest to hardest. Each chapter is a standalone Markdown file in this folder.
 4. [x] [Compilers, Interpreters, Virtual Machines](04-compilers-interpreters-vm.th.md) (ภาษาไทย)
 
 ### Part 2 — Programming Fundamentals
-5. [ ] Variables, Data Types, Constants
+5. [x] [Variables, Data Types, Constants](05-variables-data-types.th.md) (ภาษาไทย)
 6. [ ] Operators, Expressions, Statements
 7. [ ] Input/Output, Type Conversion
 8. [ ] Scope, Lifetime, References, Pointers
@@ -108,4 +108,4 @@ easiest to hardest. Each chapter is a standalone Markdown file in this folder.
 59. [ ] CI/CD, Logging, Monitoring
 
 ---
-*Progress: 4 / 59 chapters complete.*
+*Progress: 5 / 59 chapters complete.*
