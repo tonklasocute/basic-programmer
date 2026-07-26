@@ -23,7 +23,7 @@ easiest to hardest. Each chapter is a standalone Markdown file in this folder.
 ### Part 2 — Programming Fundamentals
 5. [x] [Variables, Data Types, Constants](05-variables-data-types.th.md) (ภาษาไทย)
 6. [x] [Operators, Expressions, Statements](06-operators-expressions.th.md) (ภาษาไทย)
-7. [ ] Input/Output, Type Conversion
+7. [x] [Input/Output, Type Conversion](07-io-type-conversion.th.md) (ภาษาไทย)
 8. [ ] Scope, Lifetime, References, Pointers
 9. [ ] Functions, Parameters, Return Values, Recursion
 
@@ -108,4 +108,4 @@ easiest to hardest. Each chapter is a standalone Markdown file in this folder.
 59. [ ] CI/CD, Logging, Monitoring
 
 ---
-*Progress: 6 / 59 chapters complete.*
+*Progress: 7 / 59 chapters complete.*
