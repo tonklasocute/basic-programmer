@@ -25,7 +25,7 @@ easiest to hardest. Each chapter is a standalone Markdown file in this folder.
 6. [x] [Operators, Expressions, Statements](06-operators-expressions.th.md) (ภาษาไทย)
 7. [x] [Input/Output, Type Conversion](07-io-type-conversion.th.md) (ภาษาไทย)
 8. [x] [Scope, Lifetime, References, Pointers](08-scope-lifetime-references.th.md) (ภาษาไทย)
-9. [ ] Functions, Parameters, Return Values, Recursion
+9. [x] [Functions, Parameters, Return Values, Recursion](09-functions-recursion.th.md) (ภาษาไทย)
 
 ### Part 3 — Control Flow
 10. [ ] Conditionals (if/else/switch)
@@ -108,4 +108,4 @@ easiest to hardest. Each chapter is a standalone Markdown file in this folder.
 59. [ ] CI/CD, Logging, Monitoring
 
 ---
-*Progress: 8 / 59 chapters complete.*
+*Progress: 9 / 59 chapters complete.*
