@@ -28,7 +28,7 @@ easiest to hardest. Each chapter is a standalone Markdown file in this folder.
 9. [x] [Functions, Parameters, Return Values, Recursion](09-functions-recursion.th.md) (ภาษาไทย)
 
 ### Part 3 — Control Flow
-10. [ ] Conditionals (if/else/switch)
+10. [x] [Conditionals (if/else/switch)](10-conditionals.th.md) (ภาษาไทย)
 11. [ ] Loops, break/continue, nested loops
 
 ### Part 4 — Data Structures
@@ -108,4 +108,4 @@ easiest to hardest. Each chapter is a standalone Markdown file in this folder.
 59. [ ] CI/CD, Logging, Monitoring
 
 ---
-*Progress: 9 / 59 chapters complete.*
+*Progress: 10 / 59 chapters complete.*
