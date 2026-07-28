@@ -29,7 +29,7 @@ easiest to hardest. Each chapter is a standalone Markdown file in this folder.
 
 ### Part 3 — Control Flow
 10. [x] [Conditionals (if/else/switch)](10-conditionals.th.md) (ภาษาไทย)
-11. [ ] Loops, break/continue, nested loops
+11. [x] [Loops, break/continue, nested loops](11-loops.th.md) (ภาษาไทย)
 
 ### Part 4 — Data Structures
 12. [ ] Arrays & Slices
@@ -108,4 +108,4 @@ easiest to hardest. Each chapter is a standalone Markdown file in this folder.
 59. [ ] CI/CD, Logging, Monitoring
 
 ---
-*Progress: 10 / 59 chapters complete.*
+*Progress: 11 / 59 chapters complete.*
