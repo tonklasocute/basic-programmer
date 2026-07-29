@@ -32,7 +32,7 @@ easiest to hardest. Each chapter is a standalone Markdown file in this folder.
 11. [x] [Loops, break/continue, nested loops](11-loops.th.md) (ภาษาไทย)
 
 ### Part 4 — Data Structures
-12. [ ] Arrays & Slices
+12. [x] [Arrays & Slices](12-arrays-slices.th.md) (ภาษาไทย)
 13. [ ] Linked Lists
 14. [ ] Stack & Queue
 15. [ ] Hash Table / Map / Set
@@ -108,4 +108,4 @@ easiest to hardest. Each chapter is a standalone Markdown file in this folder.
 59. [ ] CI/CD, Logging, Monitoring
 
 ---
-*Progress: 11 / 59 chapters complete.*
+*Progress: 12 / 59 chapters complete.*
