@@ -33,8 +33,8 @@ easiest to hardest. Each chapter is a standalone Markdown file in this folder.
 
 ### Part 4 — Data Structures
 12. [x] [Arrays & Slices](12-arrays-slices.th.md) (ภาษาไทย)
-13. [ ] Linked Lists
-14. [ ] Stack & Queue
+13. [x] [Linked Lists](13-linked-lists.th.md) (ภาษาไทย)
+14. [x] [Stack & Queue](14-stack-queue.th.md) (ภาษาไทย)
 15. [ ] Hash Table / Map / Set
 16. [ ] Trees, Binary Tree, BST, AVL
 17. [ ] Heap & Priority Queue
@@ -108,4 +108,4 @@ easiest to hardest. Each chapter is a standalone Markdown file in this folder.
 59. [ ] CI/CD, Logging, Monitoring
 
 ---
-*Progress: 12 / 59 chapters complete.*
+*Progress: 14 / 59 chapters complete.*
