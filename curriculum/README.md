@@ -42,7 +42,7 @@ easiest to hardest. Each chapter is a standalone Markdown file in this folder.
 19. [x] [Graph](19-graph.th.md) (ภาษาไทย)
 
 ### Part 5 — Algorithms
-20. [ ] Big O, Big Theta, Big Omega
+20. [x] [Big O, Big Theta, Big Omega](20-big-o-notation.th.md) (ภาษาไทย)
 21. [ ] Searching & Sorting
 22. [ ] Binary Search
 23. [ ] BFS / DFS
@@ -108,4 +108,4 @@ easiest to hardest. Each chapter is a standalone Markdown file in this folder.
 59. [ ] CI/CD, Logging, Monitoring
 
 ---
-*Progress: 19 / 59 chapters complete.*
+*Progress: 20 / 59 chapters complete.*
