@@ -38,7 +38,7 @@ easiest to hardest. Each chapter is a standalone Markdown file in this folder.
 15. [x] [Hash Table / Map / Set](15-hash-table-map-set.th.md) (ภาษาไทย)
 16. [x] [Trees, Binary Tree, BST, AVL](16-trees-bst-avl.th.md) (ภาษาไทย)
 17. [x] [Heap & Priority Queue](17-heap-priority-queue.th.md) (ภาษาไทย)
-18. [ ] Trie
+18. [x] [Trie](18-trie.th.md) (ภาษาไทย)
 19. [ ] Graph
 
 ### Part 5 — Algorithms
@@ -108,4 +108,4 @@ easiest to hardest. Each chapter is a standalone Markdown file in this folder.
 59. [ ] CI/CD, Logging, Monitoring
 
 ---
-*Progress: 17 / 59 chapters complete.*
+*Progress: 18 / 59 chapters complete.*
