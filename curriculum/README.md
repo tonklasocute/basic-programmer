@@ -39,7 +39,7 @@ easiest to hardest. Each chapter is a standalone Markdown file in this folder.
 16. [x] [Trees, Binary Tree, BST, AVL](16-trees-bst-avl.th.md) (ภาษาไทย)
 17. [x] [Heap & Priority Queue](17-heap-priority-queue.th.md) (ภาษาไทย)
 18. [x] [Trie](18-trie.th.md) (ภาษาไทย)
-19. [ ] Graph
+19. [x] [Graph](19-graph.th.md) (ภาษาไทย)
 
 ### Part 5 — Algorithms
 20. [ ] Big O, Big Theta, Big Omega
@@ -108,4 +108,4 @@ easiest to hardest. Each chapter is a standalone Markdown file in this folder.
 59. [ ] CI/CD, Logging, Monitoring
 
 ---
-*Progress: 18 / 59 chapters complete.*
+*Progress: 19 / 59 chapters complete.*
