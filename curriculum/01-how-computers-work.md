@@ -1,4 +1,4 @@
-# Chapter 1: How Computers Work
+# Chapter 1: How Computers Work คอมพิวเตอร์ทำงานอย่างไร
 
 ## Concept
 
