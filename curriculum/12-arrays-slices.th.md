@@ -1,4 +1,4 @@
-# บทที่ 12: Arrays & Slices
+# บทที่ 12: Arrays & Slices //ต้องดู
 
 ## แนวคิดหลัก (Concept)
 
