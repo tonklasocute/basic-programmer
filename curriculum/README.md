@@ -45,7 +45,7 @@ easiest to hardest. Each chapter is a standalone Markdown file in this folder.
 20. [x] [Big O, Big Theta, Big Omega](20-big-o-notation.th.md) (ภาษาไทย)
 21. [x] [Searching & Sorting](21-searching-sorting.th.md) (ภาษาไทย)
 22. [x] [Binary Search](22-binary-search.th.md) (ภาษาไทย)
-23. [ ] BFS / DFS
+23. [x] [BFS / DFS](23-bfs-dfs.th.md) (ภาษาไทย)
 24. [ ] Divide and Conquer
 25. [ ] Dynamic Programming
 26. [ ] Greedy
@@ -108,4 +108,4 @@ easiest to hardest. Each chapter is a standalone Markdown file in this folder.
 59. [ ] CI/CD, Logging, Monitoring
 
 ---
-*Progress: 22 / 59 chapters complete.*
+*Progress: 23 / 59 chapters complete.*
