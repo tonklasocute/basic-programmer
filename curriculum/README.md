@@ -51,7 +51,7 @@ easiest to hardest. Each chapter is a standalone Markdown file in this folder.
 26. [x] [Greedy](26-greedy.th.md) (ภาษาไทย)
 27. [x] [Backtracking](27-backtracking.th.md) (ภาษาไทย)
 28. [x] [Sliding Window, Two Pointer, Prefix Sum](28-sliding-window-two-pointer-prefix-sum.th.md) (ภาษาไทย)
-29. [ ] Union Find
+29. [x] [Union Find](29-union-find.th.md) (ภาษาไทย)
 
 ### Part 6 — Object-Oriented Programming
 30. [ ] Class & Object, Encapsulation, Abstraction
@@ -108,4 +108,4 @@ easiest to hardest. Each chapter is a standalone Markdown file in this folder.
 59. [ ] CI/CD, Logging, Monitoring
 
 ---
-*Progress: 28 / 59 chapters complete.*
+*Progress: 29 / 59 chapters complete.*
