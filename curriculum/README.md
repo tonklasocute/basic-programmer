@@ -49,7 +49,7 @@ easiest to hardest. Each chapter is a standalone Markdown file in this folder.
 24. [x] [Divide and Conquer](24-divide-and-conquer.th.md) (ภาษาไทย)
 25. [x] [Dynamic Programming](25-dynamic-programming.th.md) (ภาษาไทย)
 26. [x] [Greedy](26-greedy.th.md) (ภาษาไทย)
-27. [ ] Backtracking
+27. [x] [Backtracking](27-backtracking.th.md) (ภาษาไทย)
 28. [ ] Sliding Window, Two Pointer, Prefix Sum
 29. [ ] Union Find
 
@@ -108,4 +108,4 @@ easiest to hardest. Each chapter is a standalone Markdown file in this folder.
 59. [ ] CI/CD, Logging, Monitoring
 
 ---
-*Progress: 26 / 59 chapters complete.*
+*Progress: 27 / 59 chapters complete.*
