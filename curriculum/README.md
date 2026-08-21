@@ -56,7 +56,7 @@ easiest to hardest. Each chapter is a standalone Markdown file in this folder.
 ### Part 6 — Object-Oriented Programming
 30. [x] [Class & Object, Encapsulation, Abstraction](30-class-object-encapsulation-abstraction.th.md) (ภาษาไทย)
 31. [x] [Inheritance & Polymorphism](31-inheritance-polymorphism.th.md) (ภาษาไทย)
-32. [ ] SOLID Principles
+32. [x] [SOLID Principles](32-solid-principles.th.md) (ภาษาไทย)
 33. [ ] Design Patterns
 
 ### Part 7 — Functional Programming
@@ -108,4 +108,4 @@ easiest to hardest. Each chapter is a standalone Markdown file in this folder.
 59. [ ] CI/CD, Logging, Monitoring
 
 ---
-*Progress: 31 / 59 chapters complete.*
+*Progress: 32 / 59 chapters complete.*
