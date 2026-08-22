@@ -60,7 +60,7 @@ easiest to hardest. Each chapter is a standalone Markdown file in this folder.
 33. [x] [Design Patterns](33-design-patterns.th.md) (ภาษาไทย)
 
 ### Part 7 — Functional Programming
-34. [ ] Pure Functions, Immutability
+34. [x] [Pure Functions, Immutability](34-pure-functions-immutability.th.md) (ภาษาไทย)
 35. [ ] Higher Order Functions, Closures, Lambdas, Composition
 
 ### Part 8 — Concurrency
@@ -108,4 +108,4 @@ easiest to hardest. Each chapter is a standalone Markdown file in this folder.
 59. [ ] CI/CD, Logging, Monitoring
 
 ---
-*Progress: 33 / 59 chapters complete.*
+*Progress: 34 / 59 chapters complete.*
