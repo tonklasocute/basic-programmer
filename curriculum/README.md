@@ -61,7 +61,7 @@ easiest to hardest. Each chapter is a standalone Markdown file in this folder.
 
 ### Part 7 — Functional Programming
 34. [x] [Pure Functions, Immutability](34-pure-functions-immutability.th.md) (ภาษาไทย)
-35. [ ] Higher Order Functions, Closures, Lambdas, Composition
+35. [x] [Higher Order Functions, Closures, Lambdas, Composition](35-higher-order-functions-closures-lambdas-composition.th.md) (ภาษาไทย)
 
 ### Part 8 — Concurrency
 36. [ ] Thread, Mutex, Semaphore, Atomic
@@ -108,4 +108,4 @@ easiest to hardest. Each chapter is a standalone Markdown file in this folder.
 59. [ ] CI/CD, Logging, Monitoring
 
 ---
-*Progress: 34 / 59 chapters complete.*
+*Progress: 35 / 59 chapters complete.*
