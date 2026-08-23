@@ -66,7 +66,7 @@ easiest to hardest. Each chapter is a standalone Markdown file in this folder.
 ### Part 8 — Concurrency
 36. [x] [Thread, Mutex, Semaphore, Atomic](36-thread-mutex-semaphore-atomic.th.md) (ภาษาไทย)
 37. [x] [Race Conditions, Deadlock](37-race-conditions-deadlock.th.md) (ภาษาไทย)
-38. [ ] Goroutines, Channels, Context
+38. [x] [Goroutines, Channels, Context](38-goroutines-channels-context.th.md) (ภาษาไทย)
 
 ### Part 9 — Databases
 39. [ ] SQL vs NoSQL, Normalization
@@ -108,4 +108,4 @@ easiest to hardest. Each chapter is a standalone Markdown file in this folder.
 59. [ ] CI/CD, Logging, Monitoring
 
 ---
-*Progress: 37 / 59 chapters complete.*
+*Progress: 38 / 59 chapters complete.*
