@@ -64,7 +64,7 @@ easiest to hardest. Each chapter is a standalone Markdown file in this folder.
 35. [x] [Higher Order Functions, Closures, Lambdas, Composition](35-higher-order-functions-closures-lambdas-composition.th.md) (ภาษาไทย)
 
 ### Part 8 — Concurrency
-36. [ ] Thread, Mutex, Semaphore, Atomic
+36. [x] [Thread, Mutex, Semaphore, Atomic](36-thread-mutex-semaphore-atomic.th.md) (ภาษาไทย)
 37. [ ] Race Conditions, Deadlock
 38. [ ] Goroutines, Channels, Context
 
@@ -108,4 +108,4 @@ easiest to hardest. Each chapter is a standalone Markdown file in this folder.
 59. [ ] CI/CD, Logging, Monitoring
 
 ---
-*Progress: 35 / 59 chapters complete.*
+*Progress: 36 / 59 chapters complete.*
