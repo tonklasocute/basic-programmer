@@ -70,7 +70,7 @@ easiest to hardest. Each chapter is a standalone Markdown file in this folder.
 
 ### Part 9 — Databases
 39. [x] [SQL vs NoSQL, Normalization](39-sql-vs-nosql-normalization.th.md) (ภาษาไทย)
-40. [ ] Index, Query Optimization, Joins
+40. [x] [Index, Query Optimization, Joins](40-index-query-optimization-joins.th.md) (ภาษาไทย)
 41. [ ] Transactions, ACID, Isolation Levels, CAP
 
 ### Part 10 — Networking
@@ -108,4 +108,4 @@ easiest to hardest. Each chapter is a standalone Markdown file in this folder.
 59. [ ] CI/CD, Logging, Monitoring
 
 ---
-*Progress: 39 / 59 chapters complete.*
+*Progress: 40 / 59 chapters complete.*
