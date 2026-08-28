@@ -69,7 +69,7 @@ easiest to hardest. Each chapter is a standalone Markdown file in this folder.
 38. [x] [Goroutines, Channels, Context](38-goroutines-channels-context.th.md) (ภาษาไทย)
 
 ### Part 9 — Databases
-39. [ ] SQL vs NoSQL, Normalization
+39. [x] [SQL vs NoSQL, Normalization](39-sql-vs-nosql-normalization.th.md) (ภาษาไทย)
 40. [ ] Index, Query Optimization, Joins
 41. [ ] Transactions, ACID, Isolation Levels, CAP
 
@@ -108,4 +108,4 @@ easiest to hardest. Each chapter is a standalone Markdown file in this folder.
 59. [ ] CI/CD, Logging, Monitoring
 
 ---
-*Progress: 38 / 59 chapters complete.*
+*Progress: 39 / 59 chapters complete.*
