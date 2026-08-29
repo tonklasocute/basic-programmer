@@ -74,7 +74,7 @@ easiest to hardest. Each chapter is a standalone Markdown file in this folder.
 41. [x] [Transactions, ACID, Isolation Levels, CAP](41-transactions-acid-isolation-cap.th.md) (ภาษาไทย)
 
 ### Part 10 — Networking
-42. [ ] TCP/IP, DNS, HTTP/HTTPS, SSL/TLS
+42. [x] [TCP/IP, DNS, HTTP/HTTPS, SSL/TLS](42-tcp-ip-dns-http-ssl-tls.th.md) (ภาษาไทย)
 43. [ ] REST, GraphQL, WebSocket, gRPC
 
 ### Part 11 — Operating Systems
@@ -108,4 +108,4 @@ easiest to hardest. Each chapter is a standalone Markdown file in this folder.
 59. [ ] CI/CD, Logging, Monitoring
 
 ---
-*Progress: 41 / 59 chapters complete.*
+*Progress: 42 / 59 chapters complete.*
