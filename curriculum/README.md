@@ -75,7 +75,7 @@ easiest to hardest. Each chapter is a standalone Markdown file in this folder.
 
 ### Part 10 — Networking
 42. [x] [TCP/IP, DNS, HTTP/HTTPS, SSL/TLS](42-tcp-ip-dns-http-ssl-tls.th.md) (ภาษาไทย)
-43. [ ] REST, GraphQL, WebSocket, gRPC
+43. [x] [REST, GraphQL, WebSocket, gRPC](43-rest-graphql-websocket-grpc.th.md) (ภาษาไทย)
 
 ### Part 11 — Operating Systems
 44. [ ] File System, Scheduling
@@ -108,4 +108,4 @@ easiest to hardest. Each chapter is a standalone Markdown file in this folder.
 59. [ ] CI/CD, Logging, Monitoring
 
 ---
-*Progress: 42 / 59 chapters complete.*
+*Progress: 43 / 59 chapters complete.*
