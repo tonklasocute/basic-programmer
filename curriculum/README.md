@@ -83,7 +83,7 @@ easiest to hardest. Each chapter is a standalone Markdown file in this folder.
 46. [x] [Process Communication](46-process-communication.th.md) (ภาษาไทย)
 
 ### Part 12 — Software Engineering
-47. [ ] Clean Code, Clean Architecture
+47. [x] [Clean Code, Clean Architecture](47-clean-code-clean-architecture.th.md) (ภาษาไทย)
 48. [ ] MVC, Layered, Hexagonal
 49. [ ] Microservices vs Monolith, Event Driven, DDD
 
@@ -108,4 +108,4 @@ easiest to hardest. Each chapter is a standalone Markdown file in this folder.
 59. [ ] CI/CD, Logging, Monitoring
 
 ---
-*Progress: 46 / 59 chapters complete.*
+*Progress: 47 / 59 chapters complete.*
