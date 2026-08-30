@@ -78,7 +78,7 @@ easiest to hardest. Each chapter is a standalone Markdown file in this folder.
 43. [x] [REST, GraphQL, WebSocket, gRPC](43-rest-graphql-websocket-grpc.th.md) (ภาษาไทย)
 
 ### Part 11 — Operating Systems
-44. [ ] File System, Scheduling
+44. [x] [File System, Scheduling](44-file-system-scheduling.th.md) (ภาษาไทย)
 45. [ ] Memory Management, Virtual Memory, Paging
 46. [ ] Process Communication
 
@@ -108,4 +108,4 @@ easiest to hardest. Each chapter is a standalone Markdown file in this folder.
 59. [ ] CI/CD, Logging, Monitoring
 
 ---
-*Progress: 43 / 59 chapters complete.*
+*Progress: 44 / 59 chapters complete.*
