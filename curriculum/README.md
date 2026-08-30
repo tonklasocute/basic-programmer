@@ -79,7 +79,7 @@ easiest to hardest. Each chapter is a standalone Markdown file in this folder.
 
 ### Part 11 — Operating Systems
 44. [x] [File System, Scheduling](44-file-system-scheduling.th.md) (ภาษาไทย)
-45. [ ] Memory Management, Virtual Memory, Paging
+45. [x] [Memory Management, Virtual Memory, Paging](45-memory-management-virtual-memory-paging.th.md) (ภาษาไทย)
 46. [ ] Process Communication
 
 ### Part 12 — Software Engineering
@@ -108,4 +108,4 @@ easiest to hardest. Each chapter is a standalone Markdown file in this folder.
 59. [ ] CI/CD, Logging, Monitoring
 
 ---
-*Progress: 44 / 59 chapters complete.*
+*Progress: 45 / 59 chapters complete.*
