@@ -85,7 +85,7 @@ easiest to hardest. Each chapter is a standalone Markdown file in this folder.
 ### Part 12 — Software Engineering
 47. [x] [Clean Code, Clean Architecture](47-clean-code-clean-architecture.th.md) (ภาษาไทย)
 48. [x] [MVC, Layered, Hexagonal](48-mvc-layered-hexagonal.th.md) (ภาษาไทย)
-49. [ ] Microservices vs Monolith, Event Driven, DDD
+49. [x] [Microservices vs Monolith, Event Driven, DDD](49-microservices-monolith-event-driven-ddd.th.md) (ภาษาไทย)
 
 ### Part 13 — Version Control
 50. [ ] Git — branch, merge, rebase, cherry-pick, conflicts
@@ -108,4 +108,4 @@ easiest to hardest. Each chapter is a standalone Markdown file in this folder.
 59. [ ] CI/CD, Logging, Monitoring
 
 ---
-*Progress: 48 / 59 chapters complete.*
+*Progress: 49 / 59 chapters complete.*
