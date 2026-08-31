@@ -88,7 +88,7 @@ easiest to hardest. Each chapter is a standalone Markdown file in this folder.
 49. [x] [Microservices vs Monolith, Event Driven, DDD](49-microservices-monolith-event-driven-ddd.th.md) (ภาษาไทย)
 
 ### Part 13 — Version Control
-50. [ ] Git — branch, merge, rebase, cherry-pick, conflicts
+50. [x] [Git — branch, merge, rebase, cherry-pick, conflicts](50-git-branch-merge-rebase-cherry-pick-conflicts.th.md) (ภาษาไทย)
 
 ### Part 14 — Testing
 51. [ ] Unit / Integration Testing, Mocking, TDD
@@ -108,4 +108,4 @@ easiest to hardest. Each chapter is a standalone Markdown file in this folder.
 59. [ ] CI/CD, Logging, Monitoring
 
 ---
-*Progress: 49 / 59 chapters complete.*
+*Progress: 50 / 59 chapters complete.*
