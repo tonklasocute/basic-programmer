@@ -91,7 +91,7 @@ easiest to hardest. Each chapter is a standalone Markdown file in this folder.
 50. [x] [Git — branch, merge, rebase, cherry-pick, conflicts](50-git-branch-merge-rebase-cherry-pick-conflicts.th.md) (ภาษาไทย)
 
 ### Part 14 — Testing
-51. [ ] Unit / Integration Testing, Mocking, TDD
+51. [x] [Unit / Integration Testing, Mocking, TDD](51-unit-integration-testing-mocking-tdd.th.md) (ภาษาไทย)
 
 ### Part 15 — Security
 52. [ ] AuthN/AuthZ, JWT, OAuth2
@@ -108,4 +108,4 @@ easiest to hardest. Each chapter is a standalone Markdown file in this folder.
 59. [ ] CI/CD, Logging, Monitoring
 
 ---
-*Progress: 50 / 59 chapters complete.*
+*Progress: 51 / 59 chapters complete.*
