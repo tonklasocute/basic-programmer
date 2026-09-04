@@ -94,7 +94,7 @@ easiest to hardest. Each chapter is a standalone Markdown file in this folder.
 51. [x] [Unit / Integration Testing, Mocking, TDD](51-unit-integration-testing-mocking-tdd.th.md) (ภาษาไทย)
 
 ### Part 15 — Security
-52. [ ] AuthN/AuthZ, JWT, OAuth2
+52. [x] [AuthN/AuthZ, JWT, OAuth2](52-authn-authz-jwt-oauth2.th.md) (ภาษาไทย)
 53. [ ] Encryption, Hashing
 54. [ ] SQL Injection, XSS, CSRF
 
@@ -108,4 +108,4 @@ easiest to hardest. Each chapter is a standalone Markdown file in this folder.
 59. [ ] CI/CD, Logging, Monitoring
 
 ---
-*Progress: 51 / 59 chapters complete.*
+*Progress: 52 / 59 chapters complete.*
