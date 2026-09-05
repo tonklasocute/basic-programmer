@@ -96,7 +96,7 @@ easiest to hardest. Each chapter is a standalone Markdown file in this folder.
 ### Part 15 — Security
 52. [x] [AuthN/AuthZ, JWT, OAuth2](52-authn-authz-jwt-oauth2.th.md) (ภาษาไทย)
 53. [x] [Encryption, Hashing](53-encryption-hashing.th.md) (ภาษาไทย)
-54. [ ] SQL Injection, XSS, CSRF
+54. [x] [SQL Injection, XSS, CSRF](54-sql-injection-xss-csrf.th.md) (ภาษาไทย)
 
 ### Part 16 — System Design
 55. [ ] Scalability, Load Balancing, Caching, Redis, CDN
@@ -108,4 +108,4 @@ easiest to hardest. Each chapter is a standalone Markdown file in this folder.
 59. [ ] CI/CD, Logging, Monitoring
 
 ---
-*Progress: 53 / 59 chapters complete.*
+*Progress: 54 / 59 chapters complete.*
