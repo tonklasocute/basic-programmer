@@ -99,7 +99,7 @@ easiest to hardest. Each chapter is a standalone Markdown file in this folder.
 54. [x] [SQL Injection, XSS, CSRF](54-sql-injection-xss-csrf.th.md) (ภาษาไทย)
 
 ### Part 16 — System Design
-55. [ ] Scalability, Load Balancing, Caching, Redis, CDN
+55. [x] [Scalability, Load Balancing, Caching, Redis, CDN](55-scalability-load-balancing-caching-redis-cdn.th.md) (ภาษาไทย)
 56. [ ] Message Queues, Kafka, RabbitMQ
 57. [ ] Rate Limiting, Sharding, Replication
 
@@ -108,4 +108,4 @@ easiest to hardest. Each chapter is a standalone Markdown file in this folder.
 59. [ ] CI/CD, Logging, Monitoring
 
 ---
-*Progress: 54 / 59 chapters complete.*
+*Progress: 55 / 59 chapters complete.*
