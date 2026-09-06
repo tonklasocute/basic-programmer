@@ -101,11 +101,11 @@ easiest to hardest. Each chapter is a standalone Markdown file in this folder.
 ### Part 16 — System Design
 55. [x] [Scalability, Load Balancing, Caching, Redis, CDN](55-scalability-load-balancing-caching-redis-cdn.th.md) (ภาษาไทย)
 56. [x] [Message Queues, Kafka, RabbitMQ](56-message-queues-kafka-rabbitmq.th.md) (ภาษาไทย)
-57. [ ] Rate Limiting, Sharding, Replication
+57. [x] [Rate Limiting, Sharding, Replication](57-rate-limiting-sharding-replication.th.md) (ภาษาไทย)
 
 ### Part 17 — DevOps
 58. [ ] Docker, Kubernetes
 59. [ ] CI/CD, Logging, Monitoring
 
 ---
-*Progress: 56 / 59 chapters complete.*
+*Progress: 57 / 59 chapters complete.*
