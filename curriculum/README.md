@@ -104,8 +104,8 @@ easiest to hardest. Each chapter is a standalone Markdown file in this folder.
 57. [x] [Rate Limiting, Sharding, Replication](57-rate-limiting-sharding-replication.th.md) (ภาษาไทย)
 
 ### Part 17 — DevOps
-58. [ ] Docker, Kubernetes
+58. [x] [Docker, Kubernetes](58-docker-kubernetes.th.md) (ภาษาไทย)
 59. [ ] CI/CD, Logging, Monitoring
 
 ---
-*Progress: 57 / 59 chapters complete.*
+*Progress: 58 / 59 chapters complete.*
