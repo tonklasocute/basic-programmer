@@ -105,7 +105,7 @@ easiest to hardest. Each chapter is a standalone Markdown file in this folder.
 
 ### Part 17 — DevOps
 58. [x] [Docker, Kubernetes](58-docker-kubernetes.th.md) (ภาษาไทย)
-59. [ ] CI/CD, Logging, Monitoring
+59. [x] [CI/CD, Logging, Monitoring](59-cicd-logging-monitoring.th.md) (ภาษาไทย)
 
 ---
-*Progress: 58 / 59 chapters complete.*
+*Progress: 59 / 59 chapters complete. Curriculum finished!*
